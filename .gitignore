@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.dail-sql-env/
+
+# macOS junk
+.DS_Store
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Sensitive files
+.env
+
+# Large/binary files
+*.zip
+*.tar.gz
+*.pt
+*.h5
